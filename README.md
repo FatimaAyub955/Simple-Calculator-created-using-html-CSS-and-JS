@@ -1,0 +1,1 @@
+Created a simple calculator using html, CSS and JS. The calculator performs simple operations like addition, subtraction, multiplication and division. Code has functionalities of JS which improves the performance by calculating values that are entered in the calculator.
